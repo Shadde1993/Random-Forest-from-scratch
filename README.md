@@ -1,1 +1,1 @@
-# Random-Forest-from-scratch
+# Random-Forest
